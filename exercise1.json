@@ -1,0 +1,18 @@
+{
+    
+    "node1": {
+        "leaf1": "hello",
+        "node1": {
+            "leaf1": "goodbye"
+        },
+        "node2": {
+            "node1": {
+                "leaf1": "yo"
+            },
+            "node2": {
+                "leaf1": "como esta",
+                "leaf2": "muchacho"
+            }
+        }
+    }
+}
